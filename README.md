@@ -3,8 +3,8 @@
 
 # Car Price Prediction Web App
 
-![Screenshot (85)](https://github.com/user-attachments/assets/944b97a6-824a-4c5c-9d53-057af8925d66)
-![Screenshot (87)](https://github.com/user-attachments/assets/4e173b9b-bcde-4633-9704-81e097987728)
+![Screenshot (85)](https://github.com/user-attachments/assets/33c622d8-1697-4bfe-9213-06f421c89a30)
+![Screenshot (87)](https://github.com/user-attachments/assets/bfcac7b6-b3c2-48ae-9d03-58bec9ee7d9d)
 
 ## Overview
 
