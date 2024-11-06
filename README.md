@@ -50,7 +50,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/car-price-prediction.git
+   git clone https://github.com/shreyai347/Car-Price-Prediction.git
    ```
 
 2. Navigate to the project directory:
